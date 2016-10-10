@@ -1,0 +1,3 @@
+// Random.h
+
+double SampleBoxMuller(); 
